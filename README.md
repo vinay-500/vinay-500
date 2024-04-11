@@ -6,9 +6,9 @@ I'm currently pursuing my Master's degree in Data Science, diving deep into the 
 **💻 Software Development Expertise**
 With 4.7 years of experience in software development, I have honed my skills in a variety of technologies:
 
-Java & Python: Crafting robust and scalable applications.
-AWS: Deploying and managing applications in the cloud.
-Docker: Containerizing applications for consistent deployment.
+Java & Python: Crafting robust and scalable applications. <br>
+AWS: Deploying and managing applications in the cloud.<br>
+Docker: Containerizing applications for consistent deployment.<br>
 Flask: Building efficient and lightweight web applications.
 
 **🌱 What I'm Currently Learning**
