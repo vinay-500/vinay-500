@@ -22,3 +22,13 @@ I am always on the lookout for interesting projects in:
 Machine Learning Models: Especially those with social impact.
 Cloud-Native Applications: Using AWS, Docker, and Kubernetes.
 Data Visualization: Turning complex data into compelling stories.
+
+
+<a href="https://github.com/vinay-500">
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=vinay-500&show_icons=true&include_all_commits=true&count_private=true&border_color=000000" alt="Vinay's github stats" />
+</a>
+<br />
+
+<a href="https://github.com/vinay-500">
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-500&exclude_repo=competitive-programming&border_color=000000" />
+</a>
